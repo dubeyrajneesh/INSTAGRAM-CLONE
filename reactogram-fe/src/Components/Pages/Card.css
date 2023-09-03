@@ -1,0 +1,19 @@
+.post-profile-pic{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.location{
+    margin-top: -14px;
+}
+
+.moreActionFix{
+    width: 40px;
+    height: 60px ;
+}
+
+.VerticalCtrl{
+    font-size: 35px ;
+    margin-left: 100px;
+    margin-top: 15px;
+}

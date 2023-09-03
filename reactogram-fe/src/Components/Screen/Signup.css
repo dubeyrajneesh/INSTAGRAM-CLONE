@@ -1,0 +1,23 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.image-design{
+
+    height: 90%;
+    width: 80%;
+}
+
+.form-control{
+
+    background-color:#f3f3f3;
+    color: #dbd5d5;
+}
+.btn-ctrl{
+    background-color:#b3e0ff;
+    border: 1px solid #b3e0ff;
+}
+.btn-ctrl2{
+    border: 1px solid #e5e7e9 ;
+    background-color: #fdfeff;
+    color:#000 ;
+}
